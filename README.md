@@ -1,4 +1,4 @@
-# Automated-Lung-Histology-Analysis
+# Automated Lung Histology Analysis
 
 Respiratory disease is one of the leading causes of human death in the United States, especially during the COVID-19 pandemic. Current pathological analysis of respiratory heavily relies upon the pathologist’s identification, which requires substantial workload. 
 
