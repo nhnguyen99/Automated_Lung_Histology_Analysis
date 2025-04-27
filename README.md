@@ -6,4 +6,4 @@ In this study, we aim to develop image analysis tools to automatically study the
 
 ![][pic1]
 
-[pic1]: readme_assets/pic1.png
+[pic1]: readme_assets/BMES 2020 Final.png
