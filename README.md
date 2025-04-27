@@ -15,7 +15,7 @@ A demonstration of our image processing is shown in Fig. 1(a)-(b). Fig. 1(b) is 
 
 | | | |
 |:----------:|:----------:|:----------:|
-| ![][image1]  | ![][image2]  | ![][image3]  |
+| ![image1](https://github.com/user-attachments/assets/e3641076-9aae-464d-a5c1-b8c5f111639b)  | ![image2](https://github.com/user-attachments/assets/4a5a1200-6927-4b13-ab83-b84b93b85811)  | ![image3](https://github.com/user-attachments/assets/1130e993-c26a-41ad-8c49-8e233455023d)  |
  
 ![image1](https://github.com/user-attachments/assets/e3641076-9aae-464d-a5c1-b8c5f111639b)
 
