@@ -4,6 +4,4 @@ Respiratory disease is one of the leading causes of human death in the United St
 
 In this study, we aim to develop image analysis tools to automatically study the structural information from lung histology images under multiple respiratory disease patterns. In particular, we are working towards image processing tools that can be generally applied to process pathological lung images and extract key metrics to describe the difference among disease. We statistically compare the structural features of alveoli among multiple diseased lungs to find common patterns. 
 
-![][pic1]
-
-[pic1]: readme_assets/BMES 2020 Final.png
+![BMES 2020 Final](https://github.com/user-attachments/assets/1262ee29-08b9-48a2-af43-a950b0c1d36e)
